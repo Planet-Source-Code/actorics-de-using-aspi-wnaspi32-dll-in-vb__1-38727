@@ -1,0 +1,10 @@
+LIBRARY 		ASPI32VB
+DESCRIPTION 	"ASPI DLL for Visual Basic"
+
+EXPORTS
+	GetASPI32SupportInfoEx	 @1
+	SendASPI32CommandEx		 @2
+	GetASPI32BufferEx		 @3
+	FreeASPI32BufferEx		 @4
+	TranslateASPI32AddressEx @5
+
