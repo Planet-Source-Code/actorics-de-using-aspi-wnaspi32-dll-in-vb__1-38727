@@ -1,0 +1,3 @@
+To use it rename the ASPI32VB.renameToDll to ASPI32VB.dll.
+That's all.
+HAVE A LOT OF FUN!
